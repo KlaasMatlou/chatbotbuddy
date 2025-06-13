@@ -1,0 +1,4 @@
+ ## SUMMARY 
+
+Cryptobuddy mimics basic AI by using conditional logic (if-elif-else) to respond to user input based on keywords. 
+It retrieves predefined data from a dictionary and applies simple rules to provide recommendations or information, simulating decision-making.
