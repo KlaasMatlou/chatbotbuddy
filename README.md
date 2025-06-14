@@ -77,7 +77,7 @@ Potential future improvements include:
 
 ### Contributions and contacts
 1. KlaasMatlou [tshupianematlou@gmail.com][+27720724950]
-2. Albert [email][+254706653253]
+2. Albert sipoi[albsipoi1564@gmail.com][+254706653253]
 3. Ikechukwu [ikechukwulivingspring22@gmail.com][+2347047504914]
 
 
